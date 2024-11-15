@@ -1,7 +1,7 @@
 
 <div align="center">
 ![Banner](https://raw.githubusercontent.com/DevEmdad588/DevEmdad588/main/githubprofie.png)
-<img src= 
+<img src="https://github.com/DevEmdad588/DevEmdad588/blob/main/githubprofie.png" alt="bannner" width=600/>
 ![Profile Views](https://komarev.com/ghpvc/?username=DevEmdad588&color=blue&style=flat-square)  
 
 # 👨‍💻 Android Developer | Kotlin Enthusiast
