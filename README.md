@@ -30,7 +30,7 @@ If you’re looking for a dedicated developer with strong problem-solving skills
 ## 🛠️ **Technical Skills**  
 
 <div align = "center">
-  <img src =("")
+  <img src =("https://github.com/DevEmdad588/DevEmdad588/blob/main/githubpro1.gif")
 </div>
 
 ### **Core Expertise**  
