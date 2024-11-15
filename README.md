@@ -1,7 +1,7 @@
 
 <div align="center">
 ![Banner](https://raw.githubusercontent.com/DevEmdad588/DevEmdad588/main/githubprofie.png)
-
+<img src= 
 ![Profile Views](https://komarev.com/ghpvc/?username=DevEmdad588&color=blue&style=flat-square)  
 
 # 👨‍💻 Android Developer | Kotlin Enthusiast
@@ -28,7 +28,7 @@ If you’re looking for a dedicated developer with strong problem-solving skills
 ---
 
 ## 🛠️ **Technical Skills**  
-<img src ="https://github.com/DevEmdad588/DevEmdad588/blob/main/githubpro1.gif" alt="tech gif" width="600"/>
+<img src ="https://github.com/DevEmdad588/DevEmdad588/blob/main/githubpro1.gif" alt="tech gif" width="400"/>
 
 ### **Core Expertise**  
 - Languages: Kotlin  
