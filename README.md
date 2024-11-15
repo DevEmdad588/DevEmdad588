@@ -1,8 +1,8 @@
 
 <div align="center">
-![Banner](https://github.com/DevEmdad588/DevEmdad588/blob/main/githubprofie.png)
+![Banner](https://raw.githubusercontent.com/DevEmdad588/DevEmdad588/main/githubprofie.png)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)  
+![Profile Views](https://komarev.com/ghpvc/?username=DevEmdad588&color=blue&style=flat-square)  
 
 # 👨‍💻 Android Developer | Kotlin Enthusiast
 ### **Building Modern, Scalable, and Elegant Android Apps**
