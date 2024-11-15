@@ -1,10 +1,10 @@
 
 <div align="center">
 
-# 👨‍💻 **Android Developer | Kotlin Enthusiast**  
+# 👨‍💻 Android Developer | Kotlin Enthusiast
 ### **Building Modern, Scalable, and Elegant Android Apps**
 
-![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub)
+![Banner](https://drive.google.com/file/d/1iiRW7jWY7wYeyw3IKXQhBX7JWWLzRuF_/view?usp=drive_link)
 
 </div>
 
@@ -30,7 +30,7 @@ If you’re looking for a dedicated developer with strong problem-solving skills
 
 ### **Core Expertise**  
 - **Languages:** Kotlin  
-- **UI/UX:** Views, Material Design, Data Binding  
+- **UI/UX:** Views, Material Design, Data Binding, XML  
 - **Architecture:** MVVM, MVP, Android Lifecycle Components, ViewModel  
 
 ### **Asynchronous Programming**  
