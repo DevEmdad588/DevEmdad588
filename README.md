@@ -1,5 +1,5 @@
 
-D<div align="center">
+<div align="center">
 
 # 👨‍💻 **Android Developer | Kotlin Enthusiast**  
 ### **Building Modern, Scalable, and Elegant Android Apps**
@@ -93,8 +93,8 @@ If you’re looking for a dedicated developer with strong problem-solving skills
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=gruvbox)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevEmdad588&show_icons=true&theme=gruvbox)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevEmdad588&layout=compact&theme=gruvbox)  
 
 </div>
 
