@@ -10,6 +10,8 @@
 
 ## 🌟  About Me   
 
+![Profile Views](https://komarev.com/ghpvc/?username=DevEmdad588&color=blue&style=flat-square)
+
 I am a passionate  Android Developer  skilled in  Modern Android Development  with expertise in  Kotlin ,  Material Design , and advanced architectural patterns like  MVVM  and  MVP .  
 I thrive on solving complex problems and creating user-focused, clean, and scalable mobile applications.  
 
