@@ -93,7 +93,6 @@ If you’re looking for a dedicated developer with strong problem-solving skills
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=DevEmdad588&color=blue&style=flat-square)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevEmdad588&show_icons=true&theme=gruvbox)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevEmdad588&layout=compact&theme=gruvbox)  
 
