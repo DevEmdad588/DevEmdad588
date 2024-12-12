@@ -53,7 +53,7 @@ If you’re looking for a dedicated developer with strong problem-solving skills
 ## 📂  Highlighted Projects   
 
 ### 📱 [Demo Product App](#)  
-> *An innovative app focusing on XYZ.*  
+> *An innovative app focusing on Various Products,Brands and there in depth details .*  
  Tech Stack:  `Kotlin`, `MVVM`, `Retrofit`, `Material Design`,`API`,`Gson`  
 <div align="center">
 <img src="demoproduct.png" alt="Project Screenshot" width="600"/>
