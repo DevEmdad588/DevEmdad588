@@ -56,7 +56,7 @@ If you’re looking for a dedicated developer with strong problem-solving skills
 > *An innovative app focusing on XYZ.*  
  Tech Stack:  `Kotlin`, `MVVM`, `Retrofit`, `Material Design`,`API`,`Gson`  
 <div align="center">
-<img src="https://via.placeholder.com/600x300?text=Project+Image" alt="Project Screenshot" width="600"/>
+<img src="demoproduct.png" alt="Project Screenshot" width="600"/>
 </div>
 
 ---
