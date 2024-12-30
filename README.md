@@ -60,14 +60,7 @@ If you’re looking for a dedicated developer with strong problem-solving skills
 
 ---
 
-### 🌐 [Another Project](#)  
-> *A cutting-edge solution for ABC.*  
-**Tech Stack:** `Kotlin`, `Coroutines`, `Gson`, `Picasso`  
-<div align="center">
-<img src="https://via.placeholder.com/600x300?text=Project+Image" alt="Project Screenshot" width="600"/>
-</div>
 
----
 
 ## 🌟 Achievements   
 
