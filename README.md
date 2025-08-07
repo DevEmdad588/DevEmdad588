@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://github.com/DevEmdad588/DevEmdad588/blob/main/githubprofie.png" alt="banner" width=900/>  
 
-# 👨‍💻 Android Developer | Kotlin Enthusiast
+# 👨‍💻 SQA Enthusiast | Android Developer 
+### Building scalable , High quality , Bug free Software Techs
 ### Building Modern, Scalable, and Elegant Android Apps 
 
 </div>
@@ -12,14 +13,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DevEmdad588&color=blue&style=flat-square)
 
-I am a dedicated Android Developer with a strong passion for modern Android development. My expertise lies in Kotlin, Material Design, and advanced architectural patterns like MVVM and MVP. I excel in solving complex problems and creating user-focused, clean, and scalable mobile applications.
+I am a dedicated SQA learner with a strong passion for modern SQA techniques. My expertise lies in Manual testing,SDLC, STLC, Postman.
 
 ---
 
 ## 🚀 What I’m Looking For   
 
-🔹 Exciting Android app-based projects to contribute to.  
-🔹 Internship opportunities in Android development.
+🔹 Exciting SQA based projects to contribute to.  
+🔹 Internship opportunities in SQA.
 
 If you’re looking for a dedicated developer with strong problem-solving skills and a passion for learning, let’s connect!
 
@@ -28,24 +29,42 @@ If you’re looking for a dedicated developer with strong problem-solving skills
 ## 🛠️ Technical Skills   
 <img src="https://github.com/DevEmdad588/DevEmdad588/blob/main/githubpro1.gif" alt="tech gif" width="320" height="300"/>
 
-### Core Expertise   
-- **Languages:** Kotlin  
-- **UI/UX:** Views, Material Design, Data Binding, XML  
-- **Architecture:** MVVM, MVP, Android Lifecycle Components, ViewModel  
+### Core Expertise in Software Quality Assurance   
+
+### Languages
+-  Java
+
+### SDLC
+-  Model: Waterfall , V model, Agile methodologies, Scrum , Sprint, kanban. 
+
+### STLC 
+-  Test case design, Test checklist, Test execution, Defect tracking, Test closure. 
+
+### Manual Testing:  
+-  Test case development, Bug report.
+
+### Api Testing
+-  Basic application 
+
+---
+### Core Expertise in Android Development   
+-  Languages:  Kotlin  
+-  UI/UX:  Views, Material Design, Data Binding, XML  
+-  Architecture:  MVVM, MVP, Android Lifecycle Components, ViewModel  
 
 ### Asynchronous Programming   
-- **Coroutines**  
-- **RxKotlin**  
+-  Coroutines   
+-  RxKotlin   
 
 ### Libraries & Tools  
-- **Networking:** Retrofit, Gson, API  
-- **Image Loading:** Picasso  
-- **Extensions:** Kotlin Extensions  
+-  Networking:  Retrofit, Gson, API  
+-  Image Loading:  Picasso  
+-  Extensions:  Kotlin Extensions  
 
 ### Other Key Areas   
-- **Control Flows**  
-- **Clean Code Practices**  
-- **Modern Android Development Patterns**  
+-  Control Flows   
+-  Clean Code Practices   
+-  Modern Android Development Patterns   
 
 ---
 
@@ -74,7 +93,7 @@ If you’re looking for a dedicated developer with strong problem-solving skills
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devemdad588)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdad-hossain-a9b851280/)  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61550243672464)  
 
 </div>
@@ -95,7 +114,7 @@ If you’re looking for a dedicated developer with strong problem-solving skills
 <div align="center">
 
 ### ✨ Thank you for visiting!   
-I’m always open to exciting projects and internship opportunities in Android development.  
+I’m always open to exciting projects and internship opportunities in SQA.  
 Feel free to explore my repositories and connect with me!  
 
 </div>
