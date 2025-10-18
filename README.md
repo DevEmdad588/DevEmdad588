@@ -33,6 +33,7 @@ If you’re looking for a dedicated developer with strong problem-solving skills
 
 ### Languages
 -  Java
+-  JavaScript
 
 ### SDLC
 -  Model: Waterfall , V model, Agile methodologies, Scrum , Sprint, kanban. 
@@ -41,11 +42,17 @@ If you’re looking for a dedicated developer with strong problem-solving skills
 -  Test case design, Test checklist, Test execution, Defect tracking, Test closure. 
 
 ### Manual Testing:  
--  Test case development, Bug report.
+-  Test Planning,Test case development, Bug report, Bug tracking.
 
 ### Api Testing
--  Basic application 
+-  Postman: Website api functionality testing.
 
+### Performance testing
+-  Jmeter
+
+###  Testcase & Bug tracking tools
+-  Jira
+-  Trello
 ---
 ### Core Expertise in Android Development   
 -  Languages:  Kotlin  
