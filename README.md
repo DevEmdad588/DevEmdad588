@@ -109,10 +109,14 @@ If you’re looking for a dedicated developer with strong problem-solving skills
 
 ## 📊 GitHub Stats   
 
+
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevEmdad588&show_icons=true&theme=gruvbox)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevEmdad588&layout=compact&theme=gruvbox)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevEmdad588&show_icons=true&theme=gruvbox&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevEmdad588&layout=compact&theme=gruvbox)
+
 
 </div>
 
